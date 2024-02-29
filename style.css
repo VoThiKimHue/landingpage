@@ -18,11 +18,7 @@
 .container {
   display: flex;
   margin: 0 auto;
-  /* width: 1140px; */
-  /* width: 100%; */
-  /* border: 1px solid; */
   width: calc(100% - 90px);
-  /* position: relative; */
   justify-content: space-between;
 
 }
